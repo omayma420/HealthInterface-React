@@ -1,0 +1,9 @@
+.page-hero bg-image overlay-dark{
+    background-image: url(../assets/img/bg_image_1.jpg);
+    
+}
+
+.page-section banner-home bg-image{
+
+    background-image: url(../assets/img/banner-pattern.svg);
+}
